@@ -1,0 +1,29 @@
+,Feature,iv
+26,#_of_pastdues,0.2007
+9,begin_month,0.1681
+25,paid_off,0.1107
+13,Age,0.1021
+3,Income,0.087
+27,no_loan,0.0708
+14,Experience,0.0557
+22,Family_Status_Single,0.0217
+20,Education_secondary,0.0167
+1,Own_Car,0.0162
+15,Income_Type_Pensioner,0.0143
+6,Own_Phone,0.0141
+17,Income_Type_Working,0.0114
+10,Is_Working,0.0114
+21,Family_Status_Married,0.0098
+11,In_Relationship,0.0098
+8,Family_Member_Count,0.0084
+19,Education_Higher education,0.0066
+12,Household_Size,0.0065
+23,Housing_Type_House / apartment,0.0065
+2,Own_Realty,0.0063
+7,Own_Email,0.0058
+5,Own_Work_Phone,0.0037
+0,Gender,0.0033
+18,Education_Academic degree,0.0
+16,Income_Type_Student,0.0
+24,Housing_Type_With parents,0.0
+4,Own_Mobile,0.0
